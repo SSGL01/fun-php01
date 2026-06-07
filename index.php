@@ -32,7 +32,7 @@ $quote = $quotes[array_rand($quotes)];
 <body>
 
 <div class="card">
-    <h1>🚀 My First OpenShift PHP App</h1>
+    <h1>🚀 Soumi's First OpenShift PHP App</h1>
 
     <p><strong>Server:</strong> <?php echo gethostname(); ?></p>
 
